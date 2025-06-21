@@ -11,7 +11,7 @@ public class HousieGame {
 		});
 		}
 
-	private static void beginGame() {
+	private static void beginGame() {//added cmmt
 		int game[][]= new int[3][9];
 		
 		int totalCellLimit =15;
